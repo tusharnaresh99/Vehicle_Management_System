@@ -1,0 +1,18 @@
+[
+    {
+        "vehicle_id": "109876",
+        "brand": "Harley_Davidson Fat Boy",
+        "model": "x1000",
+        "year": 2023,
+        "type": "Bike",
+        "additional_info": 1868
+    },
+    {
+        "vehicle_id": "1029876",
+        "brand": "BMW",
+        "model": "BMW_i7",
+        "year": 2023,
+        "type": "Car",
+        "additional_info": 4
+    }
+]
